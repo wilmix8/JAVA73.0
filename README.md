@@ -5,7 +5,17 @@ JAVA7(OAKJAVA)3.0  is   about    machine  learning    with  JWEB(JDollarPart2)  
 
 In  today  technology  focused  on  machine learning  and  automation ;  on  the  other  side
  
- JDollar(JWEB)  can    easily  build  any type  of  machine learning  webapplication   as   fast  as could.
+ JDollar(JWEB)  can    easily  build  any type  of  machine learning  webapplication   as   fast  as could when
+ 
+ compared   to  other   programming  language  available  in It market.
+ 
+ 
+ JDollar(JWEB) -JSLASH   is  a  automation  technology  which  can  able  to  create
+ 
+ a   compiler   or   programming  language  with in  few  seconds  where   other
+ 
+ technology or  any  technology  cannot  create  it....
+ 
  
  JDollar(JWEB)  means   a   shortest  code    to  build  any  webapplication   with  in    30 minutes...
  
@@ -15,9 +25,6 @@ In  today  technology  focused  on  machine learning  and  automation ;  on  the
  
  so   a kind  of  machinelearning   appliation  is  essential   towards   todays  technology....
  
- This  machinelearning  webapplication   is  known  as   MX-REMOTEWEBAPPLICATION......
- 
- 
- 
+ This  machine learning  webapplication   is  known  as   MX-REMOTEWEBAPPLICATION......
  
  
