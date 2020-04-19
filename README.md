@@ -124,9 +124,9 @@ It is the best Programming language which interact with JWEB.
 
 21) SAP =>interaction with sap P.L
 
-22) PHY=> Interaction with phython P.L.
 
-23) 
+
+22) 
   JWEB2  Advanced Business
 =================================
 JWEB2  is focused  on  interaction  with JSWORD.
@@ -134,14 +134,21 @@ JWEB2  is focused  on  interaction  with JSWORD.
 Note: Here  we use  only   JDollar.exe  and JDollar .dll 
 
 
-24)  JWEB  with  JAVA7
+23)  JWEB  with  JAVA7
 =======================
 
 JAVA7(OAKJAVA) -J$  is  also  a part  of  JDollarPArt2
 
 
 
-25)  JWEB  with  AJAVA8
+24)  JWEB  with  AJAVA8
 =======================
 
 AJAVA8-J$  is  also  a part  of  JDollarPArt2
+
+
+
+ABOUT OAKJAVA7 History
+======================
+Machinelearning and  automation with remotewebapplication  is  first introduced by  wilmix jemin at year 2017.
+Python released  machinelearning  at  year 2019 only.
