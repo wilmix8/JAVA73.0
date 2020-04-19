@@ -19,7 +19,7 @@ In  today  technology  focused  on  machine learning  and  automation ;  on  the
  
  JDollar(JWEB)  means   a   shortest  code    to  build  any  webapplication   with  in    30 minutes...
  
- JAVA7(OAKJAVA)  is  a   part  of  JDollar(JWEB).
+ 
  
  When  you manually  type  all  the  code   results in  slower  manner;
  
