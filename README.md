@@ -1,13 +1,13 @@
 # JAVA73.0
 =============
 
-JAVA7(OAKJAVA)3.0  is   about    machine  learning    with  JWEB(JDollarPart2)   is   invented by   wilmixjemin j  in  JDollar(JWEB) @2017
+JAVA7(OAKJAVA)3.0  is   about    machine  learning ,Automation   with  JWEB(JDollarPart2)   is   invented by   wilmixjemin j  in  JDollar(JWEB) @2017 and OAKJAVA7(JAVA7.0)
 
 In  today  technology  focused  on  machine learning  and  automation ;  on  the  other  side
  
- JDollar(JWEB)  can    easily  build  any type  of  machine learning  webapplication   as   fast  as could when
+ JAVA7.0  can    easily  build  any type  of  machine learning  webapplication   as   fast  as could when
  
- compared   to  other   programming  language  available  in It market.
+ compared   to  other   programming  language  available  in It/SIT market.
  
  
  JDollar(JWEB) -JSLASH   is  a  automation  technology  which  can  able  to  create
@@ -17,7 +17,7 @@ In  today  technology  focused  on  machine learning  and  automation ;  on  the
  technology or  any  technology  cannot able to  create  it....
  
  
- JDollar(JWEB)  means   a   shortest  code    to  build  any  webapplication   with  in    30 minutes...
+ JDollar(JWEB) means   a   shortest  code    to  build  any  webapplication/ remotewebapplication   with  in    30 minutes...
  
  
  
@@ -152,3 +152,15 @@ ABOUT OAKJAVA7 History
 ======================
 Machinelearning and  automation with remotewebapplication  is  first introduced by  wilmix jemin at year 2017.
 Python released  machinelearning  at  year 2019 only.
+
+Note: 
+======
+
+Automation  with  Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 2.
+
+But  MachineLearning with    Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 1.
+
+For  webapplication/Remotewebapplication  with  Java7.0  is  used  with  GoogleCharts GUI.   
+
+
+
