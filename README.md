@@ -160,7 +160,7 @@ Automation  with  Remotewebapplication/webapplication   is  focused  in  JAVA7.0
 
 But  MachineLearning with    Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 1.
 
-For  webapplication/Remotewebapplication  with  Java7.0  is  used  with  GoogleCharts GUI.   
+For  webapplication/Remotewebapplication  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot.   
 
 
 
