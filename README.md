@@ -1,7 +1,7 @@
 # JAVA73.0
 =============
 
-JAVA7(OAKJAVA)3.0  is   about    machine  learning ,Automation   with  JWEB(JDollarPart2)   is   invented by   wilmixjemin j  in  JDollar(JWEB) @2017 and OAKJAVA7(JAVA7.0)
+JAVA7(OAKJAVA)3.0  is   about    machine  learning,Datascience ,Automation   with  JWEB(JDollarPart2)   is   invented by   wilmixjemin j  in  JDollar(JWEB) @2017 and OAKJAVA7(JAVA7.0).
 
 In  today  technology  focused  on  machine learning  and  automation ;  on  the  other  side
  
