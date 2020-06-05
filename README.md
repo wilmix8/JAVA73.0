@@ -163,6 +163,17 @@ But  MachineLearning,Datascience with    Remotewebapplication/webapplication/Mob
 For  webapplication/Remotewebapplication/Mobile web application(JAVA8.0)  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot,JFreechart.   
 
 
+Note:
+=====
+
+JAVA7.0-ML is  about   JAVA7.0  MachineLearning Advanced  concepts  is  invented  by  wilmix jemin .j  at  year  2019.
+and  it  is  already  implemented  in  year  2019.  SO  JAVA7.0 Remotewebapplication is  also  called  as
+     MX-REMOTEWEBAPPLICATION.
+     
+ JAVA7Part3   is focused  about    MX-REMOTEWEBAPPLICATION  with  JWEB2.0(jdollar(JWEB))...
+  This  JAVA7.0-MX-REMOTEWEBAPPLCIATION   is  a vast  topic.
+  This  is known  as JAVA7.0 MachineLearning Part 2.
+ 
 
 FAQS
 ======
