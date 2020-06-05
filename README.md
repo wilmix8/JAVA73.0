@@ -163,4 +163,19 @@ But  MachineLearning with    Remotewebapplication/webapplication   is  focused  
 For  webapplication/Remotewebapplication  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot,JFreechart.   
 
 
+FAQS
+======
+
+Why   i  don't  focus  machinelearning/Automation  at  console application?
+
+Since  that  is  useless  and  not  advanced.
+
+That has  no  security. But  that  is used  only  for  testing..
+
+So  i  left  a  choice  for  the R programmming language  to proceed.
+
+and JAVA7.0  .exe files  is  used  in  Remotewebapplication/webapplication/Machinelearning.
+
+
+
 
