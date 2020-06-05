@@ -156,9 +156,9 @@ Python released  machinelearning  at  year 2019 only.
 Note: 
 ======
 
-Automation  with  Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 2.
+Automation  with  Remotewebapplication/webapplication/Mobile webapplication   is  focused  in  JAVA7.0 version 2.
 
-But  MachineLearning,Datascience with    Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 1.
+But  MachineLearning,Datascience with    Remotewebapplication/webapplication/Mobile web application   is  focused  in  JAVA7.0 version 1.
 
 For  webapplication/Remotewebapplication/Mobile web application(JAVA8.0)  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot,JFreechart.   
 
