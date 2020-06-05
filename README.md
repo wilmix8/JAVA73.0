@@ -23,7 +23,7 @@ In  today  technology  focused  on  machine learning  and  automation ;  on  the
  
  When  you manually  type  all  the  code   results in  slower  manner;
  
- so   a kind  of  machinelearning   appliation  is  essential   towards   todays  technology....
+ so   a kind  of  machinelearning   application  is  essential   towards   todays  technology....
  
  This  machine learning  webapplication   is  known  as   MX-REMOTEWEBAPPLICATION......
  
@@ -158,9 +158,10 @@ Note:
 
 Automation  with  Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 2.
 
-But  MachineLearning with    Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 1.
+But  MachineLearning,Datascience with    Remotewebapplication/webapplication   is  focused  in  JAVA7.0 version 1.
 
-For  webapplication/Remotewebapplication  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot,JFreechart.   
+For  webapplication/Remotewebapplication/Mobile web application(JAVA8.0)  with  Java7.0  is  used  with  GoogleCharts GUI,Fusion chart,Apex plot,JFreechart.   
+
 
 
 FAQS
