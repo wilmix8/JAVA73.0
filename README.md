@@ -175,6 +175,40 @@ and  it  is  already  implemented  in  year  2019.  SO  JAVA7.0 Remotewebapplica
   This  is known  as JAVA7.0 MachineLearning Part 2.
  
 
+Note:  Java7.0  MachineLearning with  RemoteWebapplication /  Webapplication  is a  new  concept  
+wilmix  jemin j  has  designed.In  machine learning  with  console , where one can  optimize  the
+source  code  as   2  lines.But  in  case of  WEBapplication/RemoteWebapplication with   MachineLearning
+can  fail. That  why  Java7.0 Machine Learning  with  RemoteWebapplication/Webapplication
+code  can  be  kept  as  medium..
+This  new  concept  is  introduced by  wilmix jemin j  at  year 2016.
+That's  i maintained  the  rules  for  Java7.0  Developers...
+
+Rules  For  Java7.0  Developers  for  Java7.0 MachineLearning/WebApplication  is
+
+
+A)  A  Java7.0 code  may  be  medium  since  it  is  focused  for  webapplication / Remotewebapplication
+
+b)  Mostly  follow  Javac <filename.web>  to  write  a   short  code..
+
+c)  Involve  in  writing  your  own logic  for   for loop..
+
+d) Test  using  Java7Shell prompt.
+
+e) Use  Java7.0  libraries...
+
+f)  Try  to  write  a  Core Java  logic  and  convert  to  .dll package
+and  use  it  in   javac <filenam.web> program. so  that  your code  will
+be  minimised  as  10 or  2  lines..
+
+
+
+
+
+
+
+
+
+
 FAQS
 ======
 
