@@ -188,17 +188,20 @@ Rules  For  Java7.0  Developers  for  Java7.0 MachineLearning/WebApplication  is
 
 A)  A  Java7.0 code  may  be  medium  since  it  is  focused  for  webapplication / Remotewebapplication
 
-b)  Mostly  follow  Javac <filename.web>  to  write  a   short  code..
+b)  Mostly  follow  javac <filename.web>  to  write  a   short  code..
 
 c)  Involve  in  writing  your  own logic  for   for loop..
 
-d) Test  using  Java7Shell prompt.
+d) Test  the  Java7.0 program using  Java7Shell prompt.
 
-e) Use  Java7.0  libraries...
+e)Mostly  Use  Java7.0  libraries...
 
 f)  Try  to  write  a  Core Java  logic  and  convert  to  .dll package
 and  use  it  in   javac <filenam.web> program. so  that  your code  will
 be  minimised  as  10 or  2  lines..
+
+g)  Also  construct  your  user defined  libraries (.dll) and  use it
+in  OakJava7(filename.web)
 
 
 
