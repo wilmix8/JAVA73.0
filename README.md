@@ -180,24 +180,24 @@ wilmix  jemin j  has  designed.In  machine learning  with  console , where one c
 source  code  as   2  lines.But  in  case of  WEBapplication/RemoteWebapplication with   MachineLearning
 can  fail. That  why  Java7.0 Machine Learning  with  RemoteWebapplication/Webapplication
 code  can  be  kept  as  medium..
-This  new  concept  is  introduced by  wilmix jemin j  at  year 2016.
-That's  i maintained  the  rules  for  Java7.0  Developers...
+This  new  concept  is  introduced by  wilmix jemin j  at  year 2016 but  kept  secretly  at  github repository.  
+That's why  i maintained  the  rules  for  Java7.0  Developers...
 
 Rules  For  Java7.0  Developers  for  Java7.0 MachineLearning/WebApplication  is
-
+================================================================================
 
 A)  A  Java7.0 code  may  be  medium  since  it  is  focused  for  webapplication / Remotewebapplication
 
 b)  Mostly  follow  javac <filename.web>  to  write  a   short  code..
 
-c)  Involve  in  writing  your  own logic  for   for loop..
+c)  Involve  in  writing  your  own logic  for   for loop or  any  Java7.0 - loop..
 
 d) Test  the  Java7.0 program using  Java7Shell prompt.
 
 e)Mostly  Use  Java7.0  libraries...
 
 f)  Try  to  write  a  Core Java  logic  and  convert  to  .dll package
-and  use  it  in   javac <filenam.web> program. so  that  your code  will
+and  use  it  in   javac <filename.web> program. so  that  your code  will
 be  minimised  as  10 or  2  lines..
 
 g)  Also  construct  your  user defined  libraries (.dll) and  use it
